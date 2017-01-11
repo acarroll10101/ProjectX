@@ -10,7 +10,7 @@ int main()
    if ( n >= 1 )
    {
       printf("First %d prime numbers are:\n",n);
-      printf("1  2\n");
+      printf("2\n");
    }
 
    for ( count = 2 ; count <= n ;  )
